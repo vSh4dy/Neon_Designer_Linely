@@ -1,0 +1,11 @@
+#neon-designer-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#neon-preview {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
